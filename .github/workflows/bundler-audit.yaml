@@ -1,4 +1,4 @@
-name: rails                                  # workflow name
+name: bundler-audit                                  # workflow name
 
 on:
   push:
